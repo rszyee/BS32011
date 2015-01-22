@@ -1,6 +1,6 @@
 # Title
 
-by Authors David, Joe and Freya 
+by Authors Joe and Freya 
 
 ## Overview
 
