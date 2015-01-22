@@ -1,6 +1,6 @@
 # Title
 
-by Authors me 
+by Authors David, Joe 
 
 ## Overview
 
