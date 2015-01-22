@@ -4,10 +4,12 @@ by Authors
 
 ## Overview
 
+This is an overview
+
 ## Key points
 
 * One
-* Two
+* Two and a bit
 * Three
 
 ## References
